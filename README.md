@@ -1,5 +1,18 @@
 # 🎬 Entretenimento Brain
 
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Entretenimento (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/entretenimento/README.md)** → **entretenimento-brain**
+
+### Containers Relacionados (entretenimento)
+- [entretenimento-media-server](https://github.com/AslamSys/entretenimento-media-server)
+- [entretenimento-radarr-movies](https://github.com/AslamSys/entretenimento-radarr-movies)
+- [entretenimento-sonarr-series](https://github.com/AslamSys/entretenimento-sonarr-series)
+- [entretenimento-bazarr-subtitles](https://github.com/AslamSys/entretenimento-bazarr-subtitles)
+- [entretenimento-streaming-aggregator](https://github.com/AslamSys/entretenimento-streaming-aggregator)
+
+---
+
 **Container:** `entretenimento-brain`  
 **LLM:** Ollama Qwen 1.5B Q4_K_M  
 **Hardware:** Raspberry Pi 5 8GB
@@ -90,6 +103,19 @@ Payload: {
 
 ```markdown
 # SISTEMA: Assistente de Entretenimento Mordomo
+
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Entretenimento (RPi 5 8GB)](https://github.com/AslamSys/_system/blob/main/hardware/entretenimento/README.md)** → **entretenimento-brain**
+
+### Containers Relacionados (entretenimento)
+- [entretenimento-media-server](https://github.com/AslamSys/entretenimento-media-server)
+- [entretenimento-radarr-movies](https://github.com/AslamSys/entretenimento-radarr-movies)
+- [entretenimento-sonarr-series](https://github.com/AslamSys/entretenimento-sonarr-series)
+- [entretenimento-bazarr-subtitles](https://github.com/AslamSys/entretenimento-bazarr-subtitles)
+- [entretenimento-streaming-aggregator](https://github.com/AslamSys/entretenimento-streaming-aggregator)
+
+---
 
 ## FUNÇÃO
 Você é o módulo de entretenimento do Mordomo.
